@@ -1,0 +1,5 @@
+//Sheet ID = 1jEQL2_i183YwFYuUJzRaHvyjtRVtiiCMHOScqG28U6k
+
+// Deployment ID = AKfycbzkO7HHZxe0n78aaUb5XNF1OC8gxXoTWN-fCNjCfFGdzccmAxzZmC4j5W7800651NBa
+
+// URL = https://script.google.com/macros/s/AKfycbzkO7HHZxe0n78aaUb5XNF1OC8gxXoTWN-fCNjCfFGdzccmAxzZmC4j5W7800651NBa/exec
